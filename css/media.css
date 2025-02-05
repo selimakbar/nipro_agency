@@ -1,0 +1,407 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*common css start*/
+    .nipro_pd{
+        padding: 60px 0;
+    }
+    .nipro_title{
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .top_line::after{
+        height: 35px;
+        bottom: 40px;
+    }
+/*header css start*/
+    .logo{
+        font-size: 25px;
+    }
+/*banner css start*/
+    .b_slider{
+        padding: 85px 0 !important;
+    }
+    .b_slider h1{
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+    .b_slider p{
+        margin-bottom: 29px;
+    }
+    .nipro_btn{
+        margin-top: 45px;
+    }
+/*feature start*/
+    .fe_1st{
+        padding-bottom: 20px;
+    }
+/*about start*/
+    .about_img{
+        margin-bottom: 40px;
+    }
+    .ab_h2{
+        text-align: center;
+    }
+    .ab_test2{
+      padding-top: 15px;
+    }
+/*portfolio start*/
+    .pf_menu ul li a{
+        padding: 5px;
+    }
+    .pf_pho{
+    margin-top: 20px;
+    }
+/*services start*/
+    .ser_item{
+        text-align: center;
+    }
+    .ser_row{
+        margin-bottom: 30px;
+    }
+    .ser_icon{
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+/*team start*/
+    .tm_text {
+        padding: 15px 0 15px 0px;
+    }
+    .tm_title{
+        font-size: 18px !important;
+        text-align: center;
+    }
+    .tm_p{
+        font-size: 15px !important;
+        text-align: center;
+    }
+/*priceing start*/
+    .pack_type{
+        font-size: 21px;
+    }
+/*Buy More start*/
+    .bm_title{
+        text-align: center;
+        font-size: 20px;
+        padding-bottom: 20px;
+    }  
+/*testimonial start*/
+    .tes_slider{
+        margin-right: 0;
+    }
+    .ts_title{
+        margin-top: 10px;
+    }
+    .ts_slider{
+        padding: 10px;
+    }
+    .ts_sub{
+        margin: 5px 0;
+        font-size: 16px;
+    }
+    .ts_tag{
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .ts_p{
+        font-size: 16px;
+    }
+    .ts_button{
+        padding: 25px 30px;
+        top: 104%;
+        right: 0;
+        width: 100%;
+        height: 0;
+        align-items: center;
+        flex-direction: row;
+    }
+    .ts_button button{
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+/*contact start*/
+    .cs{
+        padding-top: 100px !important;
+    }
+    .c{
+        padding: 100px 20px 40px 20px;
+    }
+    .cu_title{
+        width: 182px;
+    }
+/*footer start*/
+    .f_text{
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .f_link ul{
+        text-align: center !important;
+    }
+    .f_link ul li{
+        margin-right: 15px !important;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*common css start*/
+    .nipro_pd{
+        padding: 60px 0;
+    }
+    .nipro_title{
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .top_line::after{
+        height: 35px;
+        bottom: 40px;
+    }
+/*header start*/
+    .logo{
+        font-size: 25px;
+    }
+/*banner start*/
+    .b_slider {
+        padding: 85px 0 !important;
+    }
+    .b_slider h1{
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+    .b_slider p{
+        margin-bottom: 29px;
+    }
+    .nipro_btn{
+        margin-top: 45px;
+    }
+/*feature start*/
+    .fe_1st{
+        padding-bottom: 20px;
+    }
+/*about start*/
+    .about_img{
+        margin-bottom: 40px;
+    }
+    .ab_h2{
+        text-align: center;
+    }
+    .ab_test2{
+      padding-top: 15px;
+    }
+/*portfolio start*/
+    .pf_menu ul li a{
+        padding: 5px;
+    }
+    .pf_pho{
+    margin-top: 20px;
+    }
+/*services start*/
+    .ser_item{
+        text-align: center;
+    }
+    .ser_row{
+        margin-bottom: 30px;
+    }
+    .ser_icon{
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+/*priceing start*/
+    .pack_type{
+        font-size: 21px;
+    }
+/*Buy More start*/
+    .bm_title{
+        text-align: center;
+        font-size: 20px;
+        padding-bottom: 20px;
+    }  
+/*testimonial start*/
+    .tes_slider{
+        margin-right: 0;
+    }
+    .ts_title{
+        margin-top: 10px;
+    }
+    .ts_slider{
+        padding: 10px;
+    }
+    .ts_sub{
+        margin: 5px 0;
+        font-size: 16px;
+    }
+    .ts_tag{
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .ts_p{
+        font-size: 16px;
+    }
+    .ts_button{
+        padding: 25px 30px;
+        top: 104%;
+        right: 0;
+        width: 100%;
+        height: 0;
+        align-items: center;
+        flex-direction: row;
+    }
+    .ts_button button{
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+/*contact start*/
+    .cs{
+        padding-top: 100px !important;
+    }
+    .c{
+        padding: 100px 20px 40px 20px;
+    }
+    .cu_title{
+        width: 182px;
+    }
+/*footer start*/
+    .f_text{
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .f_link ul{
+        text-align: center !important;
+    }
+    .f_link ul li{
+        margin-right: 15px !important;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*common css start*/
+    .nipro_pd{
+        padding: 80px 0;
+    }
+    .top_line::after{
+        height: 40px;
+    }
+/*header start*/
+
+/*banner start*/
+    .b_slider{
+        padding: 150px 0;
+    }
+/*feature start*/
+    .fe_1st{
+        padding-bottom: 40px;
+    }
+/*about start*/
+    .about_img{
+        margin-bottom: 40px;
+    }
+    .ab_h2{
+        text-align: center;
+    }
+    .ab_test2{
+      padding-top: 15px;
+    }
+/*services start*/
+    .ser_row{
+        margin-bottom: 20px;
+    }
+/*testimonial start*/
+    .ts_slider{
+        padding: 20px 10px;
+    }
+    .ts_sub{
+        margin: 5px 0;
+        font-size: 16px;
+    }
+    .ts_tag{
+        margin-bottom: 5px;
+        font-size: 16px;
+    }
+    .ts_button {
+        align-items: center;
+    }
+    .ts_button button{
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+/*contact start*/
+.c{
+    padding: 100px 50px 50px 50px;
+}
+/*footer start*/
+    .f_text_p{
+        font-size: 14px;
+    }
+    .f_link ul li{
+        margin-right: 10px !important;
+    }
+    .f_link ul li a{
+        font-size: 15px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*about start*/
+    .about_img{
+        margin-bottom: 40px;
+    }
+    .ab_h2{
+        text-align: center;
+    }
+    .ab_test2{
+      padding-top: 15px;
+    }
+/*team start*/
+    .tm_text {
+        padding: 15px 0 15px 6px;
+    }
+    .tm_title{
+        font-size: 16px !important;
+        text-align: center;
+    }
+    .tm_p{
+        font-size: 15px !important;
+        text-align: center;
+    }
+/*prices start*/
+    .pr_cal {
+        padding: 35px 15px 30px 15px;
+    }
+/*testimonial start*/
+    .ts_button {
+        align-items: center;
+    }
+    .ts_button button{
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*about start*/
+    .ab_h2{
+        text-align: center;
+    }
+/*contact start*/
+    .c{
+        padding: 100px 130px 40px 130px
+    }
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+}
