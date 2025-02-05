@@ -1,2 +1,2 @@
 # nipro_agency
-link: 
+link: https://selimakbar.github.io/nipro_agency/
